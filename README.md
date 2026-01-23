@@ -30,10 +30,10 @@ Este repositório contém o material desenvolvido durante a Imersão Dados da Al
 - Transformação e normalização de dados
 - Feature engineering básico
 
-### 📊 Crie Gráficos e Conte Histórias com Dados
-- Visualizações com Matplotlib e Seaborn
-- Storytelling com dados
-- Gráficos para diferentes tipos de análise
+### 📊 Crie gráficos e conte histórias com dados
+Visualizações com Matplotlib e Seaborn
+Contação de histórias com dados
+Gráficos para diferentes tipos de análise
 
 ### 🎨 Construa um Dashboard
 - Dashboard interativo com os principais insights
