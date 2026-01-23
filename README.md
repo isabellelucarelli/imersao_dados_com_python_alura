@@ -35,11 +35,10 @@ Visualizações com Matplotlib e Seaborn
 Contação de histórias com dados
 Gráficos para diferentes tipos de análise
 
-### 🎨 Construa um Dashboard
-- Dashboard interativo com os principais insights
-- Apresentação profissional de resultados
-- Consolidação de todas as análises
+### 📊 Crie gráficos e conte histórias com dados
+Visualizações com Matplotlib e Seaborn
+Contação de histórias com dados
+Gráficos para diferentes tipos de análise
 
 ## 🤝 Créditos
-
-Projeto educacional baseado na Imersão Dados com Python da Alura.
+Projeto educacional baseado em Imersão em Dados com Alura Python.
