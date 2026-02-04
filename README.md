@@ -1,4 +1,4 @@
-# 📊 Imersão Dados com Python - Alura 2025
+# 📊 Imersão Alura Dados com Python 2025
 
 Projeto de estudos Agosto de 2025 da Imersão Dados com Python (Alura), integrando todas as aulas em um único notebook. Aperfeiçoei competências em manipulação, análise e visualização de dados, criando dashboards e insights estratégicos, elevando minha expertise prática em Python para soluções reais.
 
